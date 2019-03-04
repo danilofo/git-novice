@@ -1,5 +1,5 @@
 My sample text is spread across
 More than one line
 And
-It contains repeated words "my sample text".
+It contains repeated words like "my sample text".
 It contains alsa grammer erros...
